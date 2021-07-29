@@ -65,7 +65,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   npm install
 ```
 
-###### To starts app 
+###### To start app 
 - [x] `ng serve` OR `ng serve -o`
 
 <hr/>
