@@ -14,6 +14,8 @@
 -  [RxJS](https://rxjs.dev/)
 -  [HttpClient](https://angular.io/api/common/http/HttpClient)
 
+
+
 #### Development Dependencies
 * dependencies:
     * @angular/animations: 12.1.2,
