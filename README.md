@@ -1,8 +1,6 @@
 # BuyAndSell
 
 
-### Clone or fork repo
-
 
 ##### TECH
 -  [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
