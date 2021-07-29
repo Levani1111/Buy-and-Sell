@@ -27,8 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 - Clone or fork repo
-- Run npm install
-- Start app  ng serve or ng serve -o
+
 
 ##### TECH
 
@@ -65,3 +64,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ```
   npm install
 ```
+
+###### To starts app 
+- [x] `ng serve` OR `ng serve -o`
+
+<hr/>
+
+##### Created by Levani Papashvili @2021
