@@ -8,11 +8,10 @@ import { Listing } from '../types';
   styleUrls: ['./listing-data-form.component.css']
 })
 export class ListingDataFormComponent implements OnInit {
-  @Input() buttonText: any;
+  @Input() buttonText;
   @Input() currentName = '';
   @Input() currentDescription = '';
   @Input() currentPrice = '';
-
 
   name: string = '';
   description: string = '';
@@ -32,11 +31,11 @@ export class ListingDataFormComponent implements OnInit {
 
   onButtonClicked(): void {
     this.onSubmit.emit({
-      id: null!,
+      id: null,
       name: this.name,
       description: this.description,
       price: Number(this.price),
+      views: 0,
     });
   }
 }
-
