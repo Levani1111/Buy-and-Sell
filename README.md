@@ -1,18 +1,6 @@
 # BuyAndSell
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Running unit tests
 
@@ -22,15 +10,17 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 - Clone or fork repo
 
 
 ##### TECH
-
+-  [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
+-  [typescript](https://www.typescriptlang.org/docs/)
+-  [JavaScript](https://www.w3schools.com/js/default.asp)
+-  [HTML](https://www.w3schools.com/html/)
+-  [CSS](https://www.w3schools.com/css/)
+-  [NPM](https://www.npmjs.com/)
 -  [RxJS](https://rxjs.dev/)
 -  [HttpClient](https://angular.io/api/common/http/HttpClient)
 
@@ -64,9 +54,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ```
   npm install
 ```
+## Development server
 
-###### To start app 
-- [x] `ng serve` OR `ng serve -o`
+- [x] Run `ng serve` OR `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 <hr/>
 
