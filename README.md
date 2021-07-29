@@ -36,7 +36,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 -  [HttpClient](https://angular.io/api/common/http/HttpClient)
 
 #### Development Dependencies
-
 * dependencies:
     @angular/animations: 12.1.2,
     @angular/common: 12.1.2,
@@ -63,4 +62,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
     karma-jasmine: 4.0.0,
     karma-jasmine-html-reporter: 1.7.0,
     typescript: 4.3.2
-  
+```
+  npm install
+```
