@@ -16,7 +16,7 @@
 
 ## Development Dependencies
 
-* dependencies:
+* <b>dependencies:</b>
     * @angular/animations: 12.1.2,
     * @angular/common: 12.1.2,
     * @angular/compiler: 12.1.2,
