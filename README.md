@@ -29,7 +29,7 @@
     * tslib: 2.2.0,
     * zone.js: 0.11.4
 
-* devDependencies: 
+* <b>devDependencies:</b>
     * @angular-devkit/build-angular: 12.1.2,
     * @angular/cli: 12.1.2,
     * @angular/compiler-cli: 12.1.2,
