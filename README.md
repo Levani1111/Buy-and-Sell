@@ -2,7 +2,7 @@
 
 
 
-##### TECH
+## TECH
 
 -  [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 -  [typescript](https://www.typescriptlang.org/docs/)
@@ -14,7 +14,7 @@
 -  [HttpClient](https://angular.io/api/common/http/HttpClient)
 
 
-#### Development Dependencies
+## Development Dependencies
 
 * dependencies:
     * @angular/animations: 12.1.2,
