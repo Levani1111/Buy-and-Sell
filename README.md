@@ -16,7 +16,7 @@
 
 ## Development Dependencies
 
-* <b>dependencies:</b>
+* <b>Dependencies:</b>
     * @angular/animations: 12.1.2,
     * @angular/common: 12.1.2,
     * @angular/compiler: 12.1.2,
@@ -29,7 +29,7 @@
     * tslib: 2.2.0,
     * zone.js: 0.11.4
 
-* <b>devDependencies:</b>
+* <b>DevDependencies:</b>
     * @angular-devkit/build-angular: 12.1.2,
     * @angular/cli: 12.1.2,
     * @angular/compiler-cli: 12.1.2,
