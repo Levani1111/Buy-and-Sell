@@ -49,7 +49,7 @@
 
 ## Development server
 
-- [x] Run `ng serve` OR `ng serve -o` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- [x] Run `npm run start` OR `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
